@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextYtilies-App/static/css/main.abd64e84.css",
+    "main.js": "/TextYtilies-App/static/js/main.14679bbc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TextYtilies-App/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TextYtilies-App/index.html",
+    "main.abd64e84.css.map": "/TextYtilies-App/static/css/main.abd64e84.css.map",
+    "main.14679bbc.js.map": "/TextYtilies-App/static/js/main.14679bbc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TextYtilies-App/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.14679bbc.js"
+  ]
+}
